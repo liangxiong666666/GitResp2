@@ -1,0 +1,64 @@
+[33mcommit b3cf40bc219b34b510bfa32740b0b85bc3bca83a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigi_ssh/master[m[33m)[m
+Merge: c5a08ce 2077490
+Author: liangxiong <508121770@qq.com>
+Date:   Wed Dec 2 20:54:00 2020 +0800
+
+    Merge branch 'master' of github.com:liangxiong666666/GitResp2
+
+[33mcommit c5a08cea25ae2a8f0467ba6d62f0bba8295ed21a[m
+Author: liangxiong <508121770@qq.com>
+Date:   Wed Dec 2 20:43:42 2020 +0800
+
+    添加test20
+
+[33mcommit 20774904c706b5d30cba74e6bddd4146df78e14e[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: 7841012 4efe126
+Author: liangxiong666666 <75345137+liangxiong666666@users.noreply.github.com>
+Date:   Wed Dec 2 20:01:34 2020 +0800
+
+    Merge pull request #1 from btuandui/master
+    
+    我是b团队，创建了test
+
+[33mcommit 4efe126b3f49e54f080acc675bb85705ba73889a[m
+Author: liangxiong <508121770@qq.com>
+Date:   Wed Dec 2 19:14:25 2020 +0800
+
+    b团队创建了test
+
+[33mcommit 7841012bfb425e47aeea6e2230e5a57e7035eca3[m
+Merge: 53cf5cf 767abf9
+Author: liangxiong <508121770@qq.com>
+Date:   Wed Dec 2 17:12:38 2020 +0800
+
+    解决了冲突
+
+[33mcommit 53cf5cf69acbfc59daf9d2de3576d42ac74bc224[m
+Author: liangxiong <508121770@qq.com>
+Date:   Wed Dec 2 17:05:08 2020 +0800
+
+    b程序员添加内容
+
+[33mcommit 767abf951fa4de90d10fbfdafe567b1e7bcdd134[m
+Author: liangxiong <508121770@qq.com>
+Date:   Wed Dec 2 16:58:51 2020 +0800
+
+    a程序员添加内容
+
+[33mcommit bac47cda5a86fae42ece707000594dd4f8a96431[m
+Author: liangxiong <508121770@qq.com>
+Date:   Wed Dec 2 15:47:48 2020 +0800
+
+    创建demo3.txt
+
+[33mcommit a5b42b392844d00c1c8101ccc8284f22e3feef4d[m
+Author: liangxiong <508121770@qq.com>
+Date:   Wed Dec 2 14:42:36 2020 +0800
+
+    创建了demo2.txt
+
+[33mcommit 38b00832aab4ffb0b5a7d661d0635af03fdfacf9[m
+Author: liangxiong <508121770@qq.com>
+Date:   Wed Dec 2 11:04:35 2020 +0800
+
+    增加了demo.txt
